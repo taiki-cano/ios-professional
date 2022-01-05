@@ -2,7 +2,7 @@
 //  LoginView.swift
 //  Bankey
 //
-//  Created by Taiki Iwamoto on 4/01/4.
+//  Created by Taiki on 4/01/4.
 //
 
 import Foundation

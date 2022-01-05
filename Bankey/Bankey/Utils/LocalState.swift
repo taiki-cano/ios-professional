@@ -2,7 +2,7 @@
 //  LocalState.swift
 //  Bankey
 //
-//  Created by Taiki Iwamoto on 4/01/5.
+//  Created by Taiki on 4/01/5.
 //
 
 import Foundation

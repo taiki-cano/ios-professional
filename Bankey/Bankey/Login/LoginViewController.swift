@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Bankey
 //
-//  Created by Taiki Iwamoto on 4/01/3.
+//  Created by Taiki on 4/01/3.
 //
 
 import UIKit
