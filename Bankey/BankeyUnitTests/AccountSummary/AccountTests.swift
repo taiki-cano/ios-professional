@@ -2,7 +2,7 @@
 //  AccountTests.swift
 //  BankeyUnitTests
 //
-//  Created by Taiki Iwamoto on 4/01/8.
+//  Created by Taiki on 4/01/8.
 //
 
 import Foundation
